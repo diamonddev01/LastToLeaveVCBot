@@ -1,6 +1,6 @@
 const TOKEN = "Your bot token"
-const channel = "936621813033746533";
-const _channel = "942050124610281543";
+const channel = "ALERTS CHANNEL (TEXT)";
+const _channel = "EVENT CHANNEL (VOICE)";
 const _fst = ["person_1", "person_2"];
 
 // Code - Dont touch if you dont understand
